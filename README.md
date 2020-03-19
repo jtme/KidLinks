@@ -1,4 +1,7 @@
-# KidLinks
+# KidLinks 
+> compilation of useful links for homeschooling kids
+
+
 
 * https://www.khanacademy.org/ 
 * https://www.natgeokids.com/uk/
