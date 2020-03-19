@@ -11,8 +11,10 @@
 * https://earth.nullschool.net
 * https://www.prodigygame.com/
 * https://www.mathabc.com/math-3rd-grade
-* https://www.splashlearn.com/math-games
-* https://www.coolkidfacts.com/
+
+* Math games - https://www.splashlearn.com/math-games
+
+* Reading on world facts - https://www.coolkidfacts.com/
 
 * Younger kids reading - https://www.abcya.com/grades/2/letters
 
