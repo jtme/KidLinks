@@ -25,9 +25,9 @@ https://world-geography-games.com/world.html
 * Crafts
 https://www.redtedart.com/
 
-* Videos /YT Channels
+* [Videos /YT Channels]
 
-Crash course kids, educational on many topics
+* Crash course kids, educational on many topics
 https://www.youtube.com/user/crashcoursekids?app=desktop
 + for older https://thecrashcourse.com/
 
