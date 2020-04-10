@@ -1,7 +1,8 @@
 # KidLinks 
 > compilation of useful links for homeschooling kids
 
-
+* https://www.jamesdysonfoundation.co.uk/resources/challenge-cards.html
+engeneering for kids
 
 * https://www.khanacademy.org/ 
 * https://www.natgeokids.com/uk/
